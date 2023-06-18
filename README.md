@@ -1,11 +1,11 @@
-About r-starticles
-==================
+About r-starticles-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-starticles-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/dmkaplan2000/starticles
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-starticles-feedstock/blob/main/LICENSE.txt)
 
 Summary: Provides a generic, publisher-independent Rmarkdown template for writing scientific papers and reports in Rmarkdown. The template allows for all the basic features of a scientific article, including a title page with author affiliations and footnotes possibly shown in two common formats, multi-language abstracts and keywords, page headers and footers, and the ability to place figures and tables at the end of the output PDF. Smart cross-referencing of figures, tables, equations and sections is provided using the bookdown package. See package README.md for basic package usage.
 
