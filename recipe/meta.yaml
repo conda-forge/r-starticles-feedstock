@@ -1,6 +1,5 @@
 {% set version = '0.1.0' %}
 {% set posix = 'm2-' if win else '' %}
-{% set native = 'm2w64-' if win else '' %}
 
 package:
   name: r-starticles
@@ -13,8 +12,7 @@ source:
   sha256: a640d017ab570e25d25d5a749acff1081585333a193ae7beb6ce47fb97965586
 
 build:
-  merge_build_host: True  # [win]
-  number: 2
+  number: 3
   noarch: generic
   rpaths:
     - lib/R/lib/
